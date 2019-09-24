@@ -1,0 +1,15 @@
+mi-wiki:
+  name: Medieninformatik Wiki
+  url: http://www.medieninformatik.fh-koeln.de/w/
+  
+mi-wiki-abgabe:
+  name: Medieninformatik Wiki
+  url: http://www.medieninformatik.fh-koeln.de/w/
+  
+mi-wiki-pruefung:
+  name: Medieninformatik Wiki
+  url: http://www.medieninformatik.fh-koeln.de/w/
+
+issues:
+  name: Issues
+  url: https://github.com/th-koeln/mi-master-wtw/issues/new
